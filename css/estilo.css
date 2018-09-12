@@ -1,0 +1,32 @@
+@font-face{
+	src: url('../fontes/overpassheavyitalic.otf');
+	font-family: overpassheavyitalic;
+}
+@font-face{
+	src: url('../fontes/bebasneue light_0.otf');
+	font-family: bebasneue light_0;
+}
+@font-face{
+	src: url('../fontes/montserratlight.otf');
+	font-family: montserratlight;
+}
+@font-face{
+	src: url('../fontes/bebasneuenold.otf');
+	font-family: bebasneuenold;
+}
+.font-overpass{
+	font-family: overpassheavyitalic;
+}
+.font-bebasneue{
+	font-family: bebasneue light_0;
+}
+.font-montserratlight{
+	font-family: montserratlight;
+}
+.font-bebasneuenold{
+	font-family: bebasneuenold;
+}
+body{
+	margin: 0px;
+	font-family: montserratlight;
+}
